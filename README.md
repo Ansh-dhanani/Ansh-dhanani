@@ -11,8 +11,7 @@
 
 - 🎓 B.Tech AI & ML @ Charusat University  
 - 🚀 Building modern web apps with React, Tailwind & TensorFlow.js  
-- 🎯 Focused on UI/UX, clean architecture, and AI integrations  
-- 🌍 Aiming to work/study in the US with minimal budget  
+- 🎯 Focused on UI/UX, clean architecture, and AI integrations   
 
 ---
 
