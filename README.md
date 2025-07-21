@@ -28,8 +28,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF2779?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-0EA5E9?style=for-the-badge&logo=storybook&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix--UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 #### 🧠 AI/ML  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -42,14 +43,20 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+#### 🚀 Deployment  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ---
 
 ### 🔥 Projects
 
-- 📊 [Stock Visualizer & Predictor](https://github.com/Ansh-dhanani/Stock): TensorFlow.js + React app for market forecasting
-- 🧠 AI Prompt Generator Web App: Perchance + React for story generation
-- 🎨 Portfolio Website: Built with React + Tailwind, featuring blend effects
-- 📁 File Utility Web App *(Coming soon)*: Conversions, compression, AI tools
+- 📊 [Stock Visualizer & Predictor](https://github.com/Ansh-dhanani/Stock): TensorFlow.js + React app for market forecasting  
+- 🧠 AI Prompt Generator Web App: Perchance + React for story generation  
+- 🎨 Portfolio Website *(coming soon)*: Built with React + Tailwind, featuring blend effects  
+- 🩻 Neuroscan_AI : built with react + tailwind , python ,Machine Learning
+- 🧑‍⚕️ Diagosis_AI *(coming soon)*: React +tailwind , python , OCR library , Machine Learning... 
 
 ---
 
@@ -67,9 +74,11 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-portfolio-link.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhanani-531073326/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://anshdhanani-portfolio.netlify.app/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ansh_dhanani/)  
+[![Netlify](https://img.shields.io/badge/My%20Netlify%20Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/ansh-dhanani/projects)  
+[![Vercel](https://img.shields.io/badge/My%20Vercel%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/anshs-projects-f427cece)
 
 ---
 
