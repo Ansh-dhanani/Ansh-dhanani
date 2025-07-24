@@ -60,18 +60,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh-dhanani&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-dhanani&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-dhanani&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhanani-531073326/)  
