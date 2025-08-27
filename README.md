@@ -15,16 +15,6 @@
 
 ---
 
-### 🔥 Projects
-
-- 📊 [Stock Visualizer & Predictor](https://github.com/Ansh-dhanani/Stock): TensorFlow.js + React app for market forecasting  
-- 🧠 AI Prompt Generator Web App: Perchance + React for story generation  
-- 🎨 Portfolio Website *(coming soon)*: Built with React + Tailwind, featuring blend effects  
-- 🩻 Neuroscan_AI : built with react + tailwind , python ,Machine Learning
-- 🧑‍⚕️ Diagosis_AI *(coming soon)*: React +tailwind , python , OCR library , Machine Learning... 
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhanani-531073326/)  
