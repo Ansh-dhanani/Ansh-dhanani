@@ -23,6 +23,4 @@
 [![Netlify](https://img.shields.io/badge/My%20Netlify%20Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/ansh-dhanani/projects)  
 [![Vercel](https://img.shields.io/badge/My%20Vercel%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/anshs-projects-f427cece)
 
----
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
