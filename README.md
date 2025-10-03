@@ -72,14 +72,15 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/3UnRkMNo7R6f0LoLTicY2v">
-<p align="center">
-<iframe src="https://open.spotify.com/embed/track/3UnRkMNo7R6f0LoLTicY2v" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</p>
-
+    <img 
+      src="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=6E57F5&bar_color_cover=false" 
+      alt="Spotify Now Playing" 
+    />
   </a>
 </p>  
 
-🎶 *Currently vibing to*: **Borderline – Tame Impala**  
+🎶 *Last played / currently playing*: **Borderline – Tame Impala**  
+
 ---
 
 💡 *“Code + Design = Impact.”* 🚀
