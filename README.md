@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Dhanani</h1>
-<h3 align="center">A passionate Frontend Developer & AI/ML Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack Developer & AI/ML Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%7C+Tailwind+%7C+JavaScript;AI%2FML+student+%7C+Python+%7C+TensorFlow;Loves+building+projects+%F0%9F%92%BB" alt="Typing SVG" />
