@@ -68,15 +68,15 @@
 
 ---
 
-## 🎵 Spotify Vibes  
+## 🎵 Currently Vibing  
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=6E57F5&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c4eaa3ebc7c7b15d3a7f2e8c" alt="The Winner Takes It All – ABBA" width="300"/>
   </a>
-</p>  
+</p>
 
-🎶 *Currently vibing to*: **The Winner Takes It All – ABBA**  
+🎶 *The Winner Takes It All – ABBA*
 
 ---
 
