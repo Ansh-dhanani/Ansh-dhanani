@@ -17,9 +17,15 @@
 ---
 
 ## 🚀 Tech Stack  
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,python,tensorflow,git,docker,linux,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,svelte,tailwind,bootstrap,materialui" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,python,java,cpp,cs,php,rust,go" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,redis,supabase,prisma" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,heroku,vercel,netlify,aws,gcp,azure" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,idea,figma,postman,graphql" />
 </p>
+
 
 ---
 
@@ -65,11 +71,11 @@
 ## 🎵 Spotify - Now Playing  
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Ansh_dhanani&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=6E57F5&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=6E57F5&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
 ---
 
-💡 *“Code + Design = Impact.”* 🚀
+💡 *“Code + Design = Impact.”*  🚀
