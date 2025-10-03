@@ -17,14 +17,48 @@
 
 ## 🚀 Tech Stack  
 
+### 📝 Languages  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,svelte,tailwind,bootstrap,materialui" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,python,java,cpp,cs,php,rust,go" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,redis,supabase,prisma" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,heroku,vercel,netlify,aws,gcp,azure" /><br/>
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,idea,figma,postman,graphql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" />
 </p>
 
+### ⚛️ Frameworks / Libraries  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind" />  
+</p>  
+<p align="center">
+✨ Material UI | Chakra UI | shadcn/ui | React Bits
+</p>
+
+### 🔧 Backend  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" /><br/>
+✨ FastAPI
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" /><br/>
+✨ Mongoose
+</p>
+
+### 🤖 AI / Machine Learning  
+<p align="center">
+✨ TensorFlow | PyTorch | Scikit-Learn
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker" /><br/>
+✨ Render
+</p>
+
+### 🛠 Tools & Design  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,photoshop" /><br/>
+✨ Webflow | Framer | Postman | REST APIs
+</p>
 
 ---
 
@@ -46,13 +80,13 @@
 ## 🛠 Featured Projects  
 
 ### 🔹 [Brain Tumor Detection AI](#)  
-💡 Flask + Python + Machine Learning Model + React frontend  
+💡 Flask + Python + Deep Learning Model + React frontend  
 
 ### 🔹 [React + Vite Starter Templates](#)  
 ⚡ Minimal, modern, ready-to-use React setups  
 
 ### 🔹 [Portfolio Website](#)  
-🎨 design + animations 
+🎨 High-level design + animations + case studies  
 
 ---
 
@@ -67,14 +101,16 @@
 
 ---
 
-## 🎵 Spotify - Now Playing  
+## 🎵 Spotify Vibes  
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&redirect=true">
+  <a href="https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=6E57F5&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
-</p>
+</p>  
+
+🎶 *Currently vibing to*: **The Winner Takes It All – ABBA**  
 
 ---
 
-💡 *“Code + Design = Impact.”*  🚀
+💡 *“Code + Design = Impact.”* 🚀
