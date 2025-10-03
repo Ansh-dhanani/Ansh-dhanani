@@ -17,47 +17,14 @@
 
 ## 🚀 Tech Stack  
 
-### 📝 Languages  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" /><br/>
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask,mongodb" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,gitlab,docker,vercel,netlify,vscode,figma,photoshop" />
 </p>
 
-### ⚛️ Frameworks / Libraries  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind" />  
-</p>  
-<p align="center">
-✨ Material UI | Chakra UI | shadcn/ui | React Bits
-</p>
-
-### 🔧 Backend  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" /><br/>
-✨ FastAPI
-</p>
-
-### 🗄️ Databases  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" /><br/>
-✨ Mongoose
-</p>
-
-### 🤖 AI / Machine Learning  
-<p align="center">
-✨ TensorFlow | PyTorch | Scikit-Learn
-</p>
-
-### ☁️ Cloud & DevOps  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,netlify,docker" /><br/>
-✨ Render
-</p>
-
-### 🛠 Tools & Design  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,photoshop" /><br/>
-✨ Webflow | Framer | Postman | REST APIs
+✨ Extras: Material UI | Chakra UI | shadcn/ui | React Bits | Mongoose | FastAPI | PyTorch | Scikit-Learn | Render | Webflow | Framer | Postman | REST APIs
 </p>
 
 ---
