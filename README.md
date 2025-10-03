@@ -72,7 +72,7 @@
 
 ![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316v6umielmvsugireqreyoaawzy&count=2&width=1000)
 
-🎶 *Last played / currently playing*: **Borderline – Tame Impala**  
+🎶 *Favoutite song*: **Borderline – Tame Impala**  
 
 ---
 
