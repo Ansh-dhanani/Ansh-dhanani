@@ -11,7 +11,6 @@
 - 🎓 2nd-year **B.Tech in AIML @ Charusat University**  
 - 🔭 Currently working on: **AI projects + Portfolio Website + React Starters**  
 - 🌱 Learning: **Next.js, TailwindCSS, TensorFlow.js, Prisma, Docker**  
-- 🎯 Goal: **Study/Work Abroad (US) 🇺🇸**  
 - 🎨 Passion: **Minimal yet futuristic UI + creative coding**  
 
 ---
