@@ -71,13 +71,10 @@
 ## 🎵 Spotify Vibes  
 
 <p align="center">
-  <a href="https://open.spotify.com/track/3UnRkMNo7R6f0LoLTicY2v">
-    <img 
-      src="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=6E57F5&bar_color_cover=false" 
-      alt="Spotify Now Playing" 
-    />
+  <a href="https://open.spotify.com/user/316v6umielmvsugireqreyoaawzy">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316v6umielmvsugireqreyoaawzy&cover_image=true&theme=novatorem&show_offline=true" alt="Spotify Recently Played" />
   </a>
-</p>  
+</p>
 
 🎶 *Last played / currently playing*: **Borderline – Tame Impala**  
 
