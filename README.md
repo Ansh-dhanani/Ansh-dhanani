@@ -1,10 +1,6 @@
 # 🌌 Hey, I’m Ansh Dhanani 👋  
 **Developer | Designer | AI + Web Enthusiast**
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VzbGtlZWVnNWtiemsxNzNsNWt4dTIxM2hkY2s2b2d2YzdpbXM1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"/>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6E57F5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;AI+%26+ML+Explorer+🤖;Frontend+Designer+🎨;Building+Cool+Projects+🚀" alt="Typing Animation" />
 </p>
@@ -37,7 +33,6 @@
 
 <p align="center">
 <a href="https://github.com/Ansh-dhanani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ansh-dhanani&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-dhanani&theme=radical&hide_border=true"/>
 </a>
 </p>
