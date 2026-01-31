@@ -45,14 +45,14 @@
 
 ## 🛠 Featured Projects  
 
-### 🔹 [Brain Tumor Detection AI](#)  
-💡 Flask + Python + Deep Learning Model + React frontend  
+### 🔹 [CodeTurtle](#)  
+  An AI based Code reviewer (Next.js+Webhooks+PineCone(vectordb)+Gemini API).
 
-### 🔹 [React + Vite Starter Templates](#)  
-⚡ Minimal, modern, ready-to-use React setups  
+### 🔹 [CivicConnect](#)  
+ An Potholes management System. (Nextjs+Flutter+Single Express backend+AI for pothole severitys and duplications)  
 
 ### 🔹 [Portfolio Website](#)  
-🎨 High-level design + animations + case studies  
+ A minimal Clean Portfolio with Blogs functionlaity (Next.js).  
 
 ---
 
