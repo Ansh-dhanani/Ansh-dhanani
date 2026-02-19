@@ -22,7 +22,8 @@
 - 🐢 **[CoderTurtle](https://coderturtle.vercel.app)** — AI code review tool  
 - 🌐 **[Developer Portfolio](http://anshdhanani.is-a.dev)** — Main personal website  
 - 🎨 **[Designer Portfolio](https://dhananiansh.vercel.app)** — Design portfolio (in progress)  
-- 🔎 **[Search Anything You Want](https://search-anything-you-want.vercel.app)** — Unified search utility  
+- 🔎 **[Search Anything You Want](https://search-anything-you-want.vercel.app)** — Unified search utility
+- 💬 **[Chat App](https://chattttz.vercel.app/)** — A nice web Chat app
 - 🧾 **[CheckWise](https://check-wise.netlify.app/)** — CBC analysis ML web app  
 - 🧠 **[Scanix AI](https://scanixai.netlify.app/)** — Brain tumor detection app  
 - 📦 **[GradualBlur](https://www.npmjs.com/package/gradualblur)** — Exponential blur npm package  
