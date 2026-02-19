@@ -1,79 +1,58 @@
-# 🌌 Hey, I’m Ansh Dhanani 👋  
-**Developer | Designer | AI + Web Enthusiast**
+# Hi, I’m Ansh 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6E57F5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;AI+%26+ML+Explorer+🤖;Frontend+Designer+🎨;Building+Cool+Projects+🚀" alt="Typing Animation" />
-</p>
+📍 India | 🤖 AI + Full-Stack Builder | 🎓 AIML Student
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## ⚡ About Me  
-- 🎓 2nd-year **B.Tech in AIML @ Charusat University**  
-- 🔭 Currently working on: **AI projects + Portfolio Website + React Starters**  
-- 🌱 Learning: **Next.js, TailwindCSS, TensorFlow.js, Prisma, Docker**  
-- 🎨 Passion: **Minimal yet futuristic UI + creative coding**  
-
----
-
-## 🚀 Tech Stack  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" /><br/>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,gitlab,docker,vercel,netlify,figma,photoshop" />
-</p>
-
-<p align="center">
-✨ Extras: Material UI | Chakra UI | shadcn/ui | React Bits | Mongoose | FastAPI | PyTorch | Scikit-Learn | Render | Webflow | Framer | Postman | REST APIs
-</p>
+> Building AI-powered applications, developer tools, and modern web systems.
 
 ---
 
-## 📊 GitHub Analytics  
+## Current Projects
 
-<p align="center">
-<a href="https://github.com/Ansh-dhanani">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-dhanani&theme=radical&hide_border=true"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-dhanani&theme=radical" />
-</p>
-
----
-
-## 🛠 Featured Projects  
-
-### 🔹 [CodeTurtle](#)  
-  An AI based Code reviewer (Next.js+Webhooks+PineCone(vectordb)+Gemini API).
-
-### 🔹 [CivicConnect](#)  
- An Potholes management System. (Nextjs+Flutter+Single Express backend+AI for pothole severitys and duplications)  
-
-### 🔹 [Portfolio Website](#)  
- A minimal Clean Portfolio with Blogs functionlaity (Next.js).  
+- 🧠 **[Metis Hire](https://metis-hire.vercel.app)** — AI-powered hiring and evaluation platform  
+- 🏙️ **CivicConnect** — AI civic issue reporting platform  
+- 🐢 **[CoderTurtle](https://coderturtle.vercel.app)** — AI code review tool  
+- 🌐 **[Developer Portfolio](http://anshdhanani.is-a.dev)** — Main personal website  
+- 🎨 **[Designer Portfolio](https://dhananiansh.vercel.app)** — Design portfolio (in progress)  
+- 🔎 **[Search Anything You Want](https://search-anything-you-want.vercel.app)** — Unified search utility  
+- 🧾 **[CheckWise](https://check-wise.netlify.app/)** — CBC analysis ML web app  
+- 🧠 **[Scanix AI](https://scanixai.netlify.app/)** — Brain tumor detection app  
+- 📦 **[GradualBlur](https://www.npmjs.com/package/gradualblur)** — Exponential blur npm package  
+- 🔧 **[React Bits Contribution](https://github.com/DavidHDev/react-bits/pull/425)** — Open source PR  
 
 ---
 
-## 🌍 Connect With Me  
+## GitHub Activity
 
-<p align="center">
-<a href="https://linkedin.com/in/ansh-dhanani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/anshcodez"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-<a href="mailto:dhananiansh01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-<a href="http://anshdhanani.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/Ansh-dhanani)
 
 ---
 
-## 🎵 Spotify Vibes  
+## What I’m Doing
 
-![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316v6umielmvsugireqreyoaawzy&count=2&width=1000)
-
-🎶 *Favoutite song*: **Borderline – Tame Impala**<br/>
-🎶 *Newest fav*: **Baby Blue – Badfinger**
+- Building AI-native applications  
+- Exploring system design and scalable architectures  
+- Integrating machine learning into production apps  
+- Rapid prototyping and shipping  
 
 ---
 
-💡 *“Code + Design = Impact.”* 🚀
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Ansh_Dhanani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-dhanani)
+[![Twitter](https://img.shields.io/badge/-@anshcodez-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/anshcodez)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ansh-dhanani)
+
+---
+
+## Philosophy
+
+> Ship fast. Learn continuously. Build real systems that solve real problems.
