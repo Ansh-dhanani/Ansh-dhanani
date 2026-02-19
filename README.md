@@ -53,6 +53,17 @@
 
 ---
 
+## Spotify Vibes
+
+![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316v6umielmvsugireqreyoaawzy&count=2&width=1000)
+
+ *Favourite song*: **Borderline – Tame Impala**  
+ *Newest fav*: **Baby Blue – Badfinger**
+
+---
+
+
+
 ## Philosophy
 
 > Ship fast. Learn continuously. Build real systems that solve real problems.
