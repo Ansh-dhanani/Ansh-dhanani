@@ -18,6 +18,7 @@
 
 ## Current Projects
 
+- 🧠 **[Mikk](https://mikk-web.vercel.app)** — Keeps your AI in sync with your codebase, and out of trouble.  
 - 🧠 **[Metis Hire](https://metis-hire.vercel.app)** — AI-powered hiring and evaluation platform  
 - 🏙️ **CivicConnect** — AI civic issue reporting platform  
 - 🐢 **[CoderTurtle](https://coderturtle.vercel.app)** — AI code review tool  
