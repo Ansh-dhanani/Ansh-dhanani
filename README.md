@@ -18,10 +18,10 @@
 
 ## Current Projects
 
-- 🧠 **[Mikk](https://mikk-web.vercel.app)** — Keeps your AI in sync with your codebase, and out of trouble.  
+- 🧠 **[Mikk](https://mikk-web.vercel.app)** — Keeps your AI in sync with your codebase, and out of trouble.(v2.0 released)  
 - 🧠 **[Metis Hire](https://metis-hire.vercel.app)** — AI-powered hiring and evaluation platform  
 - 🏙️ **CivicConnect** — AI civic issue reporting platform  
-- 🐢 **[CoderTurtle](https://coderturtle.vercel.app)** — AI code review tool  
+- 🐢 **[CoderTurtle](https://coderturtle.vercel.app)** — AI code review tool(in progress)
 - 🌐 **[Developer Portfolio](http://anshdhanani.is-a.dev)** — Main personal website  
 - 🎨 **[Designer Portfolio](https://dhananiansh.vercel.app)** — Design portfolio (in progress)  
 - 🔎 **[Search Anything You Want](https://search-anything-you-want.vercel.app)** — Unified search utility
