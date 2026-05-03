@@ -1,5 +1,4 @@
 # Hi, I’m Ansh 👋
-![](https://komarev.com/ghpvc/?username=ansh-dhanani&label=Profile%20Views&color=blue&style=flat)
 
 📍 India | 🤖 AI + Full-Stack Builder | 🎓 AIML Student
 
